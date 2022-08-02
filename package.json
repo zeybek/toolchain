@@ -1,6 +1,6 @@
 {
   "name": "@zeybek/toolchain",
-  "version": "1.2.0",
+  "version": "1.0.0",
   "description": "Toolchain",
   "main": "./lib/src/index.js",
   "files": [
