@@ -22,7 +22,3 @@ export const subtract = (n1: number, n2: number): number => n1 - n2;
  * @param {number} n2 - number - This is the second parameter, and it's a number.
  */
 export const divide = (n1: number, n2: number): number => n1 / n2;
-/**
- * Empty is a function that takes no arguments and returns nothing.
- */
-export const empty = (): void => console.log("empty");
